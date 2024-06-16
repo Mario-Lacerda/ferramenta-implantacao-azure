@@ -124,4 +124,18 @@ public class HomeController : Controller
 Este projeto fornece uma base ainda mais sólida para você começar a usar as ferramentas de implantação na nuvem no Microsoft Azure. Você pode usar o serviço App Service para criar e gerenciar aplicativos Web e usar o serviço Resource Manager para listar recursos em seu escopo.
 
 
+## Consultar
+
+https://learn.microsoft.com/pt-br/azure/app-service/quickstart-python?tabs=flask%2Cwindows%2Cazure-cli%2Cazure-cli-deploy%2Cdeploy-instructions-azportal%2Cterminal-bash%2Cdeploy-instructions-zip-azcli
+
+https://learn.microsoft.com/pt-br/azure/azure-resource-manager/templates/template-tutorial-create-first-template?tabs=azure-powershell
+
+https://learn.microsoft.com/pt-br/azure/logic-apps/automate-build-deployment-standard
+
+https://learn.microsoft.com/pt-br/azure/architecture/hybrid/deployments/solution-deployment-guide-highly-available-kubernetes
+
+https://learn.microsoft.com/pt-br/azure/app-service/deploy-best-practices
+
+
+
 
